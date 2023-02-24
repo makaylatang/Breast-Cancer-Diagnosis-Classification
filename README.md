@@ -2,7 +2,7 @@
 
 For this analysis, we conduct binary classification on the Breast Cancer Wisconsin (Diagnostic) Data Set, which is stored in the wdbc.data csv file. The dataset contains information about the characteristics of cell nuclei in n images, each of which has multiple attributes that are explained in wdbc.names. Our goal is to predict the diagnosis attribute, denoted by outcome Y and located in column 2 of the dataset, which indicates whether the cell is malignant (M) or benign (B).
 
-> 📂 Dataset:
+> 📂 Dataset: [details](https://github.com/makaylatang/Breast-Cancer-Diagnosis-Classification/blob/main/data/wdbc.names)
   - Sample size: 569
   - Number of observations in each class: M = 212; B = 357
   - Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
