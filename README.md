@@ -5,6 +5,7 @@ For this analysis, we conduct binary classification on the Breast Cancer Wiscons
 > 📂 Dataset:
   - Sample size: 569
   - Number of observations in each class: M = 212; B = 357
+  - Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
 
 ### Models
   - Logistic Regression
