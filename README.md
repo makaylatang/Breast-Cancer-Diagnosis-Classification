@@ -7,7 +7,7 @@ For this analysis, we conduct binary classification on the Breast Cancer Wiscons
   - Number of observations in each class: M = 212; B = 357
   - Number of attributes: 32 (ID, diagnosis, 30 real-valued input features)
 
-### Models
+### 📈 Models
   - Logistic Regression
   - Linear Discriminant Analysis Model
   - Quadratic Discriminant Analysis Model
@@ -15,7 +15,7 @@ For this analysis, we conduct binary classification on the Breast Cancer Wiscons
   - Ridge Regression
   - LASSO Regression
   
-### Evaluation
+### 📝 Evaluation
   - Compute the prediction accuracy (based on the original data)
   - Plot the ROC curve, computed on the test set
   - Compute an estimate of the Area under the ROC (AUC)
